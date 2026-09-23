@@ -1,0 +1,18 @@
+# Build output
+output/
+bin/
+obj/
+
+# Shellcode — never commit
+shellcode_enc.bin
+*.bin
+*.raw
+
+# .NET
+*.user
+*.suo
+.vs/
+*.swp
+
+# macOS
+.DS_Store
