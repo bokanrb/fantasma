@@ -1,0 +1,2 @@
+/Users/brunostabelini/tools/Loaders/HS2/output/hs2.pdb
+/Users/brunostabelini/tools/Loaders/HS2/output/hs2.exe
